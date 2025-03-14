@@ -11,6 +11,13 @@ public class one{
       {
         System.out.println(i);
       }
+
+      // 3)print the numbers in reverse
+      System.out.println("--------------------------------------------------");
+      for (int i = 10; i>0; i--)
+      {
+        System.out.println(i);
+      }
     }
 
 }
